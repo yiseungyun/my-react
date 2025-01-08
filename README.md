@@ -1,4 +1,4 @@
-# web-p2-reactcraft
+# my-react
 ## 실행 방법
 ``` shell
 cd frontend
